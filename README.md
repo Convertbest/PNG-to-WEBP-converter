@@ -16,7 +16,7 @@ Convert your PNG images to WEBP format with ease using our efficient online tool
 To convert your PNG images to WEBP format, simply follow these steps:
 1. Visit [Convert.best PNG to WEBP](https://convert.best/pngtowebp.html).
 2. Upload your PNG image.
-3. Customize your settings, such as compression ratio and quality, to suit your specific needs.
+3. Select the desired quality and preview the image to ensure it meets your specifications before conversion.
 4. Click 'Convert' to initiate the conversion process.
 5. Download your WEBP image once the conversion is complete.
 
